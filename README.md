@@ -39,7 +39,7 @@ Operations
 
 ---------
 
-So a search on [Google](https:\\www.google.com)
+So a search on [Google](https://www.google.com)
 
 Take me to your [leader](Second.md)
 

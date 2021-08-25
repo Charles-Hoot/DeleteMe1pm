@@ -25,7 +25,7 @@ def addup(l1):
 
 Operations
 * Change code in VS
-    2. add a variable
+    1. add a variable
     2. add a method
     2. change existing code
 * Save
@@ -33,7 +33,7 @@ Operations
 * Push
 * Observe in the remote
 
-3. Dogs
+1. Dogs
 2. Cats
 1. Foxes
 

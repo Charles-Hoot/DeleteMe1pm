@@ -43,3 +43,10 @@ So a search on [Google](https://www.google.com)
 
 Take me to your [leader](Second.md)
 
+This is a truth table
+| P | Q | P and Q |
+| --- | --- | ---: |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |

@@ -37,4 +37,9 @@ Operations
 2. Cats
 1. Foxes
 
+---------
+
+So a search on [Google](https:\\www.google.com)
+
+Take me to your [leader](Second.md)
 
